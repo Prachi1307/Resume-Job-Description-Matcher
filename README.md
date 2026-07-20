@@ -59,8 +59,8 @@ PDF text extraction can misorder text on resumes with complex multi-column layou
  Swap TF-IDF for sentence-transformer embeddings for semantic matching
  Dynamic skill extraction via NER instead of a fixed list
  Support batch-matching one resume against multiple JDs at once
+ 
 📄 License
-
 MIT — free to use, modify, and build on.
 
 🙋 Author
